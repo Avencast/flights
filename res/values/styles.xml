@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="result_info_cities">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="result_info">
+        <item name="android:textSize">13.0dip</item>
+        <item name="android:textColor">#ff8d8167</item>
+    </style>
+    <style name="result_item_price">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@drawable/favorites_item_price_text</item>
+    </style>
+    <style name="result_item_currency">
+        <item name="android:textSize">13.0dip</item>
+        <item name="android:textColor">@drawable/favorites_item_price_text</item>
+    </style>
+    <style name="result_item_date">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@drawable/result_item_date_text</item>
+    </style>
+    <style name="result_item_time">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@drawable/result_item_time_text</item>
+    </style>
+    <style name="result_item_iata">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@drawable/result_item_iata_text</item>
+    </style>
+    <style name="result_item_dash">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@drawable/result_item_dash_text</item>
+    </style>
+    <style name="result_item_duration">
+        <item name="android:textSize">11.0dip</item>
+        <item name="android:textColor">@drawable/result_item_duration_text</item>
+    </style>
+    <style name="result_item_transfer">
+        <item name="android:textSize">13.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@drawable/result_item_transfer_text</item>
+        <item name="android:background">@drawable/results_item_transfers_bkg</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingRight">5.0dip</item>
+    </style>
+
+</resources>

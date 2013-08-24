@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abs__background_holo_dark">#ff000000</color>
+    <color name="abs__background_holo_light">#fff3f3f3</color>
+    <item type="color" name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</item>
+    <item type="color" name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</item>
+    <color name="abs__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <item type="color" name="abs__bright_foreground_inverse_holo_dark">@color/abs__bright_foreground_holo_light</item>
+    <item type="color" name="abs__bright_foreground_inverse_holo_light">@color/abs__bright_foreground_holo_dark</item>
+    <color name="abs__holo_blue_light">#ff33b5e5</color>
+    <item type="color" name="search_checkbox_text_checked">@android:color/white</item>
+    <color name="search_checkbox_text_unchecked">#ff12657d</color>
+    <color name="search_date_picker_off">#ff12657d</color>
+    <item type="color" name="search_date_picker">@android:color/white</item>
+    <color name="search_date_picker_text">#ff1081a1</color>
+    <color name="search_dest_tip">#ffcccccc</color>
+    <color name="ticket_route_header_bkg_gray">#fff2f2f2</color>
+    <color name="ticket_route_header_bkg_orange">#ffffebbe</color>
+    <color name="ticket_flight_race">#ff10a5d6</color>
+    <item type="color" name="ticket_flight_time">@android:color/black</item>
+    <color name="ticket_flight_date">#ff919191</color>
+    <item type="color" name="ticket_flight_city">@android:color/black</item>
+    <color name="ticket_flight_time_off">#ffc2c2c2</color>
+    <color name="ticket_flight_date_off">#ffcccccc</color>
+    <color name="ticket_flight_city_off">#ffa3a3a3</color>
+    <color name="ticket_flight_duration">#ff333333</color>
+    <color name="ticket_transfer_duration">#ffbd9a56</color>
+    <color name="ticket_transfer_place">#ffa5987a</color>
+    <color name="calendar_picker_today_background">#ffebebeb</color>
+    <color name="cell_delimeter_in_range">#ffecdbba</color>
+    <color name="results_item_date">#ff1111</color>
+    <color name="results_item_iata">#ff999999</color>
+    <color name="results_item_dash">#ffdddddd</color>
+    <color name="results_item_transfer">#ff333333</color>
+    <color name="results_item_duration">#ff999999</color>
+    <color name="results_item_price">#ffffabbb</color>
+    <color name="results_item_fav_bkg">#00000000</color>
+    <color name="results_item_fav_bkg_pressed">#ffffebbd</color>
+    <color name="favorites_item_unactive_bold">#ff989898</color>
+    <color name="favorites_item_unactive">#ff6b6b6b</color>
+    <color name="favorites_item_unactive_trans_bg">#ff888888</color>
+    <color name="history_item_price_enabled">#ff888888</color>
+    <color name="history_item_price_disabled">#ff888888</color>
+</resources>
